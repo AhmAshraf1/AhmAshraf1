@@ -1,42 +1,56 @@
-<h1 align="center">Hi 👋, I'm Ahmed Ashraf </h1>
+# <h1 align="center">Hi 👋, I'm Ahmed Ashraf </h1>
 
-</p>
-<br>
+---
 
-- I'm in my fourth year studying  `Electronics and Communication at the Faculty of Engineering`
-- I’m interested in studying `Data Science & Machine Learning & DeepLearning`
+- 👨🏻‍🎓 Fresh graduate from Electronics and Communications Engineering at Mansoura University <br>
+- 👨🏻‍💻 Interested in Data Science, Machine Learning and Deep Learning especially Computer Vision<br>
+- 💬 Passionate about applying AI in medical fields
 
+<h3 align="center">Junior Data Scientist</h3>
+<h6 align="center">  
+  [![](https://visitcount.itsvg.in/api?id=AhmAshraf1&icon=0&color=1)](https://visitcount.itsvg.in)<img alt="GitHub followers" src="https://img.shields.io/github/followers/AhmAshraf1?label=Followers&style=social"> <img src="https://img.shields.io/github/stars/AhmAshraf1?label=Stars" alt="Total Stars">
+</h6>
+---
+## 🌐 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/ahm-ashraf)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&style=for-the-badge&logoColor=white)](https://www.kaggle.com/ahmedashrafhelmi)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&style=for-the-badge&logoColor=white)](https://facebook.com/Ahm.Ashraf1)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&style=for-the-badge&logoColor=white)](https://medium.com/@ahmedhelmy387)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&style=for-the-badge&logoColor=white)](https://x.com/HELMY73166987)
 
-## 🛠 Languages and Tools
-<p align="left">
-                 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-                 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-                 <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40"/> </a> 
-                 <a href="https://plotly.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plotly/plotly-official.svg" alt="plotly" width="40" height="40"/> </a> 
-                 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-                 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-                 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-                 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-                 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+---
+# 💻 Tech Stack:
 
-## 📩 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/ahm-ashraf/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://www.linkedin.com/in/ahm-ashraf/" height="40" width="40" /></a>
-<a href="https://www.kaggle.com/ahmedashrafhelmi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="https://www.kaggle.com/ahmedashrafhelmi" height="40" width="40" /></a>
-<a href="https://www.facebook.com/Ahm.Ashraf1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="https://www.facebook.com/Ahm.Ashraf1" height="40" width="40" /></a>
-<a href="https://www.discordapp.com/users/ahmedashraf1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="https://www.discordapp.com/users/ahmedashraf1" height="40" width="40" /></a>
-<a href="https://t.me/ahm_ashraf1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="https://t.me/ahm_ashraf1" height="40" width="40" /></a>
-</p>
+## Frameworks & Libraries
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-<br>
+## ML & DL
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+## Deployment & Development
+ ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+ ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+## Database
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmAshraf1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130" alt="stats graph"  /> 
-  <img src="https://streak-stats.demolab.com?user=AhmAshraf1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
-</div>
+## Visulaization
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmAshraf1&locale=en&hide_title=false&layout=compact&card_width=200&langs_count=10&theme=dracula&hide_border=false" height="140" alt="languages graph"  />
-</div>
+## Other tools
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AhmAshraf1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AhmAshraf1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmAshraf1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AhmAshraf1&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
+
+---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AhmAshraf1&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
