@@ -6,8 +6,7 @@
 - 💬 Passionate about applying AI in medical fields
 
 <h3 align="center">Junior Data Scientist</h3>
-<h6 align="center">  
-  [![](https://visitcount.itsvg.in/api?id=AhmAshraf1&icon=0&color=1)](https://visitcount.itsvg.in)</h6>
+[![](https://visitcount.itsvg.in/api?id=AhmAshraf1&icon=0&color=1)](https://visitcount.itsvg.in)
  <h6 align="center"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/AhmAshraf1?label=Followers&style=social"> <img src="https://img.shields.io/github/stars/AhmAshraf1?label=Stars" alt="Total Stars">
 </h6>
 
