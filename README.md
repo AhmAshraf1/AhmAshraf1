@@ -1,6 +1,5 @@
 # <h1 align="center">Hi 👋, I'm Ahmed Ashraf </h1>
 
----
 
 - 👨🏻‍🎓 Fresh graduate from Electronics and Communications Engineering at Mansoura University <br>
 - 👨🏻‍💻 Interested in Data Science, Machine Learning and Deep Learning especially Computer Vision<br>
@@ -10,7 +9,7 @@
 <h6 align="center">  
   [![](https://visitcount.itsvg.in/api?id=AhmAshraf1&icon=0&color=1)](https://visitcount.itsvg.in)<img alt="GitHub followers" src="https://img.shields.io/github/followers/AhmAshraf1?label=Followers&style=social"> <img src="https://img.shields.io/github/stars/AhmAshraf1?label=Stars" alt="Total Stars">
 </h6>
----
+
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/ahm-ashraf)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&style=for-the-badge&logoColor=white)](https://www.kaggle.com/ahmedashrafhelmi)
@@ -18,7 +17,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&style=for-the-badge&logoColor=white)](https://medium.com/@ahmedhelmy387)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&style=for-the-badge&logoColor=white)](https://x.com/HELMY73166987)
 
----
+
 # 💻 Tech Stack:
 
 ## Frameworks & Libraries
@@ -40,7 +39,7 @@
 ## Other tools
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AhmAshraf1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AhmAshraf1&theme=dark&hide_border=false)<br/>
