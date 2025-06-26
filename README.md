@@ -40,16 +40,3 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AhmAshraf1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AhmAshraf1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmAshraf1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AhmAshraf1&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
-
----
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AhmAshraf1&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
